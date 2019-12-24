@@ -18,3 +18,15 @@ Inline-style:
 Inline-style: 
 ![alt text](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVlNpQ1RMOHFVMGh5WFJsbE5vQUd2L3dLQ21vbWZqcUhhZlQ1SHFRT2dTYy9GZVAwbzU5YjBIQjF3aWcwWEJDV2doNmxhbmN5VTlBRUFMdW1tc2pJc2tNPSIsIml2UGFyYW1ldGVyU3BlYyI6ImcxK1dVbk5OaGVzT2crYngiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master "Logo Title Text 1")
 
+
+![alt text](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVlNpQ1RMOHFVMGh5WFJsbE5vQUd2L3dLQ21vbWZqcUhhZlQ1SHFRT2dTYy9GZVAwbzU5YjBIQjF3aWcwWEJDV2doNmxhbmN5VTlBRUFMdW1tc2pJc2tNPSIsIml2UGFyYW1ldGVyU3BlYyI6ImcxK1dVbk5OaGVzT2crYngiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master "Logo Title Text 1")
+ ~
+ ~
+
+![Passing](https://s3-eu-west-1.amazonaws.com/codefactory-eu-west-1-prod-default-build-badges/passing.svg "Passing")
+
+and
+
+![Failing](https://s3-eu-west-1.amazonaws.com/codefactory-eu-west-1-prod-default-build-badges/failing.svg "Failing")
+
+ ~
