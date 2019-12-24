@@ -14,3 +14,7 @@ Inline-style:
 
 Inline-style: 
 ![alt text](https://png2.cleanpng.com/sh/fbbd03f032902dfc15da464efc69c4dc/L0KzQYm3VsA3N6Rmf5H0aYP2gLBuTfhidJJxRd54Z3AwdrF2hL1paZ1mhJ91b3fyPYbpUcdkP2kASKQDY0C5Poi5Vsg6OGM5Sac7OEK7RYG9VcAyOGYziNDw/kisspng-halal-logo-food-halal-logo-5b17c789028c06.7268902415282850650105.png "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVlNpQ1RMOHFVMGh5WFJsbE5vQUd2L3dLQ21vbWZqcUhhZlQ1SHFRT2dTYy9GZVAwbzU5YjBIQjF3aWcwWEJDV2doNmxhbmN5VTlBRUFMdW1tc2pJc2tNPSIsIml2UGFyYW1ldGVyU3BlYyI6ImcxK1dVbk5OaGVzT2crYngiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master "Logo Title Text 1")
+
